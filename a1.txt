@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updated a1.txt in master
+=======
+Again updated a1.txt in first
+>>>>>>> first-branch
